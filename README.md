@@ -16,9 +16,9 @@ I usually prefer...
 
 <br>
 
-![overview](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg "overview")
-![languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg "languages")
-![activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "activities")
+![Statistics](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg "Statistics")
+![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg "Languages")
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "Activities")
 
 <br>
 
