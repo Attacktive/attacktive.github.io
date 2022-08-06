@@ -21,6 +21,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      - name: Create output directory
+        run: mkdir output
+      - name: Copy output
+        run: cp index.html,index.css,favicon.ico,README.md output/
 
       # Runs a set of commands using the runners shell
       - name: Push to Profile
@@ -28,9 +32,11 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: .
+          source-directory: output/
           destination-github-username: 'Attacktive'
           destination-repository-name: 'Attacktive'
           user-email: 'welcome.hell.dude@gmail.com'
           commit-message: See ORIGIN_COMMIT from $GITHUB_REF
           target-branch: main
+      - name: Remove output directory
+        run: rm -r output
