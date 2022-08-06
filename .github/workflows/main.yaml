@@ -24,12 +24,11 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Push to Profile
-        id: push_directory
-        uses: cpina/github-action-push-to-another-repository@main
+        uses: cpina/github-action-push-to-another-repository@v1.5
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: /
+          source-directory: .
           destination-github-username: 'Attacktive'
           destination-repository-name: 'Attacktive'
           user-email: 'welcome.hell.dude@gmail.com'
