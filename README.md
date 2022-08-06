@@ -4,11 +4,21 @@ I'm a random GitHub user.
 
 I enjoy writing code about random things.
 
-I prefer <kbd>Tab</kbd> over <kbd>Space</kbd> 😛, so I dislike [YAML](https://yaml.org).
+I usually prefer...
+- <kbd>Tab</kbd> over <kbd>Space</kbd>,
+- braces over indentation
+- static typing over dynamic typing
+- verbosity over conciseness
+- being explicit over being implicit
+- single return over multiple returns
+
+<br>
 
 ![overview](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg "overview")
 ![languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg "languages")
 ![activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "activities")
+
+<br>
 
 Usually work with
 
