@@ -6,11 +6,11 @@ I enjoy writing code about random things.
 
 I usually prefer...
 - <kbd>Tab</kbd> over <kbd>Space</kbd>,
-- braces over indentation
-- static typing over dynamic typing
-- verbosity over conciseness
-- being explicit over being implicit
-- single return over multiple returns
+- braces over indentation,
+- static typing over dynamic typing,
+- verbosity over conciseness,
+- being explicit over being implicit,
+- single return over multiple returns.
 
 <br>
 
