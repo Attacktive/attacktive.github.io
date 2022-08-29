@@ -1,7 +1,5 @@
 # Attacktive
 
-![Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Attacktive "Counter")
-
 I'm a random GitHub user.
 
 I enjoy writing code about random things.
