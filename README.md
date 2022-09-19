@@ -10,7 +10,8 @@ I usually prefer...
 - static typing over dynamic typing,
 - verbosity over conciseness,
 - being explicit over being implicit,
-- single return over multiple returns.
+- single return over multiple returns,
+- **no** trailing commas. ☠️
 
 <br>
 
