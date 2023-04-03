@@ -11,7 +11,8 @@ I usually prefer...
 - verbosity over conciseness,
 - being explicit over being implicit,
 - single return over multiple returns,
-- **no** trailing commas. ☠️
+- **no** trailing commas,
+- soft line wrapping over hard line wrapping 💢.
 
 <br>
 
