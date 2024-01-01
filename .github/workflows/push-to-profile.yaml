@@ -36,7 +36,7 @@ jobs:
           destination-github-username: 'Attacktive'
           destination-repository-name: 'Attacktive'
           user-email: 'github-actions[bot]@users.noreply.github.com'
-          user-name: 'bot'
+          user-name: 'github-actions[bot]'
           commit-message: |
             chore: take commit from $GITHUB_REF
 
