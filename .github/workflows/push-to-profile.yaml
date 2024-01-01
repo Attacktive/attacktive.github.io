@@ -30,12 +30,16 @@ jobs:
       - name: 'Push to Profile'
         uses: 'cpina/github-action-push-to-another-repository@v1.7.2'
         env:
-          API_TOKEN_GITHUB: '${{ secrets.API_TOKEN_GITHUB }}'
+          API_TOKEN_GITHUB: "${{ secrets.API_TOKEN_GITHUB }}"
         with:
           source-directory: 'output/'
           destination-github-username: 'Attacktive'
           destination-repository-name: 'Attacktive'
-          commit-message: 'See ORIGIN_COMMIT from $GITHUB_REF'
-          user-email: 'tribute2pantera@gmail.com'
+          user-email: 'github-actions[bot]@users.noreply.github.com'
+          user-name: 'bot'
+          commit-message: |
+            chore: take commit from $GITHUB_REF
+
+            $GITHUB_REF
       - name: 'Remove output directory'
         run: 'rm -r output'
