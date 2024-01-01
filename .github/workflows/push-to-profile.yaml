@@ -33,9 +33,9 @@ jobs:
           API_TOKEN_GITHUB: "${{ secrets.API_TOKEN_GITHUB }}"
         with:
           source-directory: 'output/'
-          destination-github-username: 'Attacktive'
+          destination-github-username: 'github-actions[bot]'
           destination-repository-name: 'Attacktive'
-          user-email: 'tribute2pantera@gmail.com'
+          user-email: 'github-actions[bot]@users.noreply.github.com'
           commit-message: 'See ORIGIN_COMMIT from $GITHUB_REF'
           target-branch: 'main'
       - name: 'Remove output directory'
