@@ -35,7 +35,7 @@ jobs:
           source-directory: 'output/'
           destination-github-username: 'Attacktive'
           destination-repository-name: 'Attacktive'
-          user-name: 'bot'
           commit-message: 'See ORIGIN_COMMIT from $GITHUB_REF'
+          user-email: 'tribute2pantera@gmail.com'
       - name: 'Remove output directory'
         run: 'rm -r output'
