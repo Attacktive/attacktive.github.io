@@ -1,5 +1,7 @@
 # Attacktive
 
+[![.github/workflows/dependabot.yaml](https://github.com/Attacktive/attacktive.github.io/actions/workflows/dependabot.yaml/badge.svg)](https://github.com/Attacktive/attacktive.github.io/actions/workflows/dependabot.yaml)
+
 I'm a random GitHub user.
 
 I enjoy writing code about random things.
