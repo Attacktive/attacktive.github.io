@@ -35,7 +35,7 @@ jobs:
           source-directory: 'output/'
           destination-github-username: 'Attacktive'
           destination-repository-name: 'Attacktive'
-          user-email: 'github-actions[bot]@users.noreply.github.com'
+          user-email: 'tribute2pantera@gmail.com'
           user-name: 'github-actions[bot]'
           commit-message: 'See ORIGIN_COMMIT from $GITHUB_REF'
           target-branch: 'main'
