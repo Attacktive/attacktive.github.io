@@ -15,6 +15,10 @@ I usually prefer...
 
 <br>
 
-![Statistics](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg "Statistics")
-![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg "Languages")
+![Statistics](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg#gh-light-mode-only "Statistics")
+![Statistics](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/overview.svg#gh-dark-mode-only "Statistics")
+
+![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg#gh-light-mode-only "Languages")
+![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg#gh-dark-mode-only "Languages")
+
 ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "Activities")
