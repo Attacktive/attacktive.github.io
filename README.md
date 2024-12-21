@@ -10,7 +10,7 @@ I usually prefer...
 - static typing over dynamic typing,
 - verbosity over conciseness,
 - being explicit over being implicit,
-- **no** trailing commas (but getting used to it 🫤),
+- **no** trailing commas (but getting used to it 🫤),
 - soft line wrapping over hard line wrapping 💢.
 
 <br>
