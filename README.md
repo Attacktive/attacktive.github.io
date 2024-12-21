@@ -21,4 +21,5 @@ I usually prefer...
 ![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg#gh-light-mode-only "Languages")
 ![Languages](https://raw.githubusercontent.com/Attacktive/github-stats/master/generated/languages.svg#gh-dark-mode-only "Languages")
 
-![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=vue "Activities")
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=github#gh-light-mode-only "Activities")
+![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=2077#gh-dark-mode-only "Activities")
