@@ -8,7 +8,6 @@ I usually prefer...
 - <kbd>Tab</kbd> over <kbd>Space</kbd>,
 - braces over indentation,
 - static typing over dynamic typing,
-- verbosity over conciseness,
 - being explicit over being implicit,
 - **no** trailing commas (but getting used to it 🫤),
 - soft line wrapping over hard line wrapping 💢.
