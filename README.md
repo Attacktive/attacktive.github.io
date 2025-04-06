@@ -14,7 +14,7 @@ I usually prefer...
 
 ---
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Attacktive&theme=2077 "Stats") ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=2077 "Activities")
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Attacktive&theme=2077 "Stats") ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Attacktive&theme=2077 "Activities")
 
 <sup>provided by [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)</sup>
 
