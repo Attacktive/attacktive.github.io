@@ -21,6 +21,6 @@ I usually prefer...
 
 ---
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Attacktive&langs_count=10&theme=ambient_gradient "Most Used Languages")
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Attacktive&theme=tokyonight)
 
-<sup>[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</sup>
+<sup>[GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)</sup>
